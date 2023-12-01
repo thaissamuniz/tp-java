@@ -1,7 +1,7 @@
 package org.example;
 
-import org.example.cliente.Cliente;
-import org.example.produto.Produto;
+import org.example.util.Cliente;
+import org.example.util.Produto;
 
 public class App 
 {

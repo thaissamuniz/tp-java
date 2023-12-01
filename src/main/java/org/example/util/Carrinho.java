@@ -1,7 +1,7 @@
-package org.example.carrinho;
+package org.example.util;
 
 import lombok.Data;
-import org.example.produto.Produto;
+import org.example.exception.ValorInvalidoException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -31,10 +31,10 @@ public class Carrinho {
         }
     }
 
-    public void calcularTotalCarrinho() throws Exception {
+    public void calcularTotalCarrinho() {
             for(Produto produto : produtosNoCarrinho) {
                 if(produto.getPreco() <= 0) {
-                    throw new Exception();
+                    throw new ValorInvalidoException("O preço não pode ser menor ou igual a R$0");
                 }
                 total += produto.getPreco();
                 LOGGER.debug(String.valueOf(total));

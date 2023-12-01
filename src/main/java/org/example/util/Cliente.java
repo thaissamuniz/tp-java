@@ -1,7 +1,5 @@
-package org.example.cliente;
+package org.example.util;
 
-import org.example.carrinho.Carrinho;
-import org.example.produto.Produto;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

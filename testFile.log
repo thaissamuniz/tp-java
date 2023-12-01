@@ -1,0 +1,132 @@
+21:27:22.132 314  [main] INFO  org.example.util.Carrinho - - blusa
+21:27:22.133 315  [main] INFO  org.example.util.Carrinho - - vestido
+21:27:22.133 315  [main] INFO  org.example.util.Carrinho - - colar
+21:31:42.499 269  [main] INFO  org.example.util.Carrinho - blusa
+21:31:42.500 270  [main] INFO  org.example.util.Carrinho - vestido
+21:31:42.501 271  [main] INFO  org.example.util.Carrinho - colar
+21:34:37.594 280  [main] INFO  org.example.util.Cliente - Carrinho de Maria:
+21:34:37.595 281  [main] INFO  org.example.util.Carrinho - blusa
+21:34:37.595 281  [main] INFO  org.example.util.Carrinho - vestido
+21:34:37.595 281  [main] INFO  org.example.util.Carrinho - colar
+21:34:37.596 282  [main] INFO  org.example.util.Cliente - valor total: R$136.5
+21:40:29.343 284  [main] INFO  org.example.util.Cliente - Carrinho de Maria:
+21:40:29.344 285  [main] INFO  org.example.util.Carrinho - blusa
+21:40:29.344 285  [main] INFO  org.example.util.Carrinho - vestido
+21:40:29.344 285  [main] INFO  org.example.util.Carrinho - colar
+21:40:29.345 286  [main] DEBUG org.example.util.Carrinho - 19.9
+21:40:29.345 286  [main] DEBUG org.example.util.Carrinho - 75.8
+21:40:29.345 286  [main] DEBUG org.example.util.Carrinho - 136.5
+21:40:29.345 286  [main] INFO  org.example.util.Cliente - valor total: R$136.5
+21:47:01.329 271  [main] INFO  org.example.util.Cliente - Carrinho de Maria:
+21:47:01.330 272  [main] INFO  org.example.util.Carrinho - blusa
+21:47:01.331 273  [main] INFO  org.example.util.Carrinho - vestido
+21:47:01.331 273  [main] INFO  org.example.util.Carrinho - colar
+21:47:01.331 273  [main] DEBUG org.example.util.Carrinho - 19.9
+21:47:01.332 274  [main] DEBUG org.example.util.Carrinho - 75.8
+21:47:01.332 274  [main] DEBUG org.example.util.Carrinho - 136.5
+21:47:01.332 274  [main] INFO  org.example.util.Cliente - valor total: R$136.5
+21:47:29.311 287  [main] INFO  org.example.util.Cliente - Carrinho de Ma:
+21:47:29.312 288  [main] INFO  org.example.util.Carrinho - blusa
+21:47:29.313 289  [main] INFO  org.example.util.Carrinho - vestido
+21:47:29.313 289  [main] INFO  org.example.util.Carrinho - colar
+21:47:29.313 289  [main] DEBUG org.example.util.Carrinho - 19.9
+21:47:29.313 289  [main] DEBUG org.example.util.Carrinho - 75.8
+21:47:29.313 289  [main] DEBUG org.example.util.Carrinho - 136.5
+21:47:29.313 289  [main] INFO  org.example.util.Cliente - valor total: R$136.5
+21:47:42.129 249  [main] ERROR org.example.util.Cliente - o nome deve conter mais que 2 caracteres
+21:47:42.130 250  [main] INFO  org.example.util.Cliente - Carrinho de M:
+21:47:42.130 250  [main] INFO  org.example.util.Carrinho - blusa
+21:47:42.130 250  [main] INFO  org.example.util.Carrinho - vestido
+21:47:42.130 250  [main] INFO  org.example.util.Carrinho - colar
+21:47:42.131 251  [main] DEBUG org.example.util.Carrinho - 19.9
+21:47:42.131 251  [main] DEBUG org.example.util.Carrinho - 75.8
+21:47:42.131 251  [main] DEBUG org.example.util.Carrinho - 136.5
+21:47:42.131 251  [main] INFO  org.example.util.Cliente - valor total: R$136.5
+21:50:25.086 272  [main] INFO  org.example.util.Cliente - Carrinho de M:
+21:50:25.087 273  [main] INFO  org.example.util.Carrinho - blusa
+21:50:25.088 274  [main] INFO  org.example.util.Carrinho - vestido
+21:50:25.088 274  [main] INFO  org.example.util.Carrinho - colar
+21:50:25.088 274  [main] DEBUG org.example.util.Carrinho - 19.9
+21:50:25.088 274  [main] DEBUG org.example.util.Carrinho - 75.8
+21:50:25.088 274  [main] DEBUG org.example.util.Carrinho - 136.5
+21:50:25.088 274  [main] INFO  org.example.util.Cliente - valor total: R$136.5
+21:51:42.924 251  [main] INFO  org.example.util.Cliente - Carrinho de M:
+21:51:42.925 252  [main] INFO  org.example.util.Carrinho - blusa
+21:51:42.925 252  [main] INFO  org.example.util.Carrinho - vestido
+21:51:42.926 253  [main] INFO  org.example.util.Carrinho - colar
+21:51:42.926 253  [main] DEBUG org.example.util.Carrinho - 19.9
+21:51:42.926 253  [main] DEBUG org.example.util.Carrinho - 75.8
+21:51:42.926 253  [main] DEBUG org.example.util.Carrinho - 136.5
+21:51:42.926 253  [main] INFO  org.example.util.Cliente - valor total: R$136.5
+21:57:12.548 245  [main] INFO  org.example.util.Cliente - Carrinho de M:
+21:57:12.550 247  [main] INFO  org.example.util.Carrinho - blusa
+21:57:12.550 247  [main] INFO  org.example.util.Carrinho - vestido
+21:57:12.550 247  [main] INFO  org.example.util.Carrinho - colar
+21:57:12.550 247  [main] DEBUG org.example.util.Carrinho - 19.9
+21:57:12.551 248  [main] DEBUG org.example.util.Carrinho - 75.8
+21:57:12.551 248  [main] DEBUG org.example.util.Carrinho - 136.5
+21:57:12.551 248  [main] INFO  org.example.util.Cliente - valor total: R$136.5
+21:57:25.746 245  [main] INFO  org.example.util.Cliente - Carrinho de M:
+21:57:25.748 247  [main] INFO  org.example.util.Carrinho - blusa
+21:57:25.748 247  [main] INFO  org.example.util.Carrinho - vestido
+21:57:25.748 247  [main] INFO  org.example.util.Carrinho - colar
+21:57:25.748 247  [main] ERROR org.example.util.Cliente - O valor não deve ser menor ou igual a 0
+21:57:38.134 248  [main] INFO  org.example.util.Cliente - Carrinho de M:
+21:57:38.135 249  [main] INFO  org.example.util.Carrinho - blusa
+21:57:38.135 249  [main] INFO  org.example.util.Carrinho - vestido
+21:57:38.135 249  [main] INFO  org.example.util.Carrinho - colar
+21:57:38.136 250  [main] DEBUG org.example.util.Carrinho - 19.9
+21:57:38.136 250  [main] DEBUG org.example.util.Carrinho - 75.8
+21:57:38.136 250  [main] DEBUG org.example.util.Carrinho - 136.5
+21:57:38.136 250  [main] INFO  org.example.util.Cliente - valor total: R$136.5
+11:10:46.306 240  [main] DEBUG org.example.util.Carrinho - 39.0
+11:10:46.307 241  [main] DEBUG org.example.util.Carrinho - 66.0
+11:13:43.383 195  [main] DEBUG org.example.util.Carrinho - 39.0
+11:13:43.384 196  [main] DEBUG org.example.util.Carrinho - 66.0
+11:15:05.781 198  [main] DEBUG org.example.util.Carrinho - 39.0
+11:15:05.783 200  [main] DEBUG org.example.util.Carrinho - 66.0
+11:18:30.387 237  [main] INFO  org.example.util.Cliente - Carrinho de Maria:
+11:18:30.388 238  [main] INFO  org.example.util.Carrinho - blusa
+11:18:30.389 239  [main] INFO  org.example.util.Carrinho - vestido
+11:18:30.389 239  [main] INFO  org.example.util.Carrinho - colar
+11:18:30.389 239  [main] DEBUG org.example.util.Carrinho - 19.9
+11:18:30.389 239  [main] DEBUG org.example.util.Carrinho - 75.8
+11:18:30.389 239  [main] DEBUG org.example.util.Carrinho - 136.5
+11:18:30.390 240  [main] INFO  org.example.util.Cliente - valor total: R$136.5
+11:19:12.922 191  [main] DEBUG org.example.util.Carrinho - 39.0
+11:19:12.922 191  [main] DEBUG org.example.util.Carrinho - 66.0
+11:22:16.518 246  [main] INFO  org.example.util.Cliente - Carrinho de Maria:
+11:22:16.519 247  [main] INFO  org.example.util.Carrinho - blusa
+11:22:16.519 247  [main] INFO  org.example.util.Carrinho - vestido
+11:22:16.519 247  [main] INFO  org.example.util.Carrinho - colar
+11:22:16.520 248  [main] ERROR org.example.util.Cliente - O valor não deve ser menor ou igual a 0
+11:22:36.347 231  [main] INFO  org.example.util.Cliente - Carrinho de Maria:
+11:22:36.348 232  [main] INFO  org.example.util.Carrinho - blusa
+11:22:36.348 232  [main] INFO  org.example.util.Carrinho - vestido
+11:22:36.348 232  [main] INFO  org.example.util.Carrinho - colar
+11:22:36.348 232  [main] DEBUG org.example.util.Carrinho - 19.9
+11:22:36.348 232  [main] DEBUG org.example.util.Carrinho - 75.8
+11:22:36.349 233  [main] DEBUG org.example.util.Carrinho - 136.5
+11:22:36.349 233  [main] INFO  org.example.util.Cliente - valor total: R$136.5
+11:25:01.124 222  [main] DEBUG org.example.util.Carrinho - 39.0
+11:25:01.125 223  [main] DEBUG org.example.util.Carrinho - 66.0
+11:25:02.277 255  [main] DEBUG org.example.util.Carrinho - 39.0
+11:25:02.278 256  [main] DEBUG org.example.util.Carrinho - 66.0
+11:26:40.562 194  [main] DEBUG org.example.util.Carrinho - 39.0
+11:26:40.563 195  [main] DEBUG org.example.util.Carrinho - 66.0
+11:26:40.566 198  [main] DEBUG org.example.util.Carrinho - 105.0
+11:26:40.566 198  [main] DEBUG org.example.util.Carrinho - 132.0
+11:27:00.141 224  [main] DEBUG org.example.util.Carrinho - 39.0
+11:27:00.143 226  [main] DEBUG org.example.util.Carrinho - 66.0
+11:27:00.147 230  [main] DEBUG org.example.util.Carrinho - 105.0
+11:27:00.147 230  [main] DEBUG org.example.util.Carrinho - 132.0
+11:30:18.453 196  [main] DEBUG org.example.util.Carrinho - 39.0
+11:30:18.455 198  [main] DEBUG org.example.util.Carrinho - 66.0
+11:49:56.123 214  [main] DEBUG org.example.util.Carrinho - 39.0
+11:49:56.124 215  [main] DEBUG org.example.util.Carrinho - 66.0
+11:50:38.085 151  [main] DEBUG org.example.util.Carrinho - 39.0
+11:50:38.087 153  [main] DEBUG org.example.util.Carrinho - 66.0
+11:52:27.231 161  [main] DEBUG org.example.util.Carrinho - 39.0
+11:52:27.232 162  [main] DEBUG org.example.util.Carrinho - 66.0
+11:55:40.089 170  [main] DEBUG org.example.util.Carrinho - 39.0
+11:55:40.091 172  [main] DEBUG org.example.util.Carrinho - 66.0
